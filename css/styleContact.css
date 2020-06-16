@@ -1,0 +1,32 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+/*CONTACT*/
+#contact{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#contact iframe{
+	height: 500px;
+	width: 500px;
+}
+
+/*FOOTER*/
+#footer{
+	background-color: black;
+	height: 60px;
+}
+
+#footer img{
+	float: right;
+	height: 50px;
+}
+
+#footer .container{
+	padding-top: 5px;
+	overflow: hidden;
+	padding-bottom: 5px;
+	color: white;
+}

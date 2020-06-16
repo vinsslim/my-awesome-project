@@ -1,0 +1,81 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+/*NAV*/
+#nav{
+	
+}
+
+/*Carousel*/
+#carousel{
+	background-image: url('../images/batthern.png');
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+#carouselExampleIndicators{
+	height: 600px;
+}
+
+#carouselExampleIndicators img{
+	height: 600px;
+}
+
+#imgSlide{
+	width: 800px;
+	height: 1000px;
+}
+
+/*JUAL*/
+#jualan{
+	text-align: center;
+	padding: 20px;
+}
+
+#jual img{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+}
+
+/*BENEFIT*/
+#benefit{
+	background-image: url('../images/batthern.png');
+}
+
+#benefit h2{
+	text-align: center;
+}
+
+#rowDalam{
+	
+}
+
+#youtube{
+	text-align: center;
+	background-color: black;
+}
+
+/*INFORMATION*/
+#info h2{
+	text-align: center;
+}
+
+#footer{
+	background-color: black;
+	height: 60px;
+}
+
+#footer img{
+	float: right;
+	height: 50px;
+}
+
+#footer .container{
+	padding-top: 5px;
+	overflow: hidden;
+	padding-bottom: 5px;
+	color: white;
+}
